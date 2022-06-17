@@ -14,7 +14,7 @@ body{
   align-content: center;
 }
 .box-container{
-  width: 60%;
+  width: 100%;
   max-width: 1440px;
   display: flex;
   justify-content: center;
